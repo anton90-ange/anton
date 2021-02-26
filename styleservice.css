@@ -1,0 +1,102 @@
+/*style*/
+body{
+    font: 16px;
+    background-color: #eaeaea;
+    color: #333;
+    background-image: url('images/2738.jpg');
+}
+.container{
+    width: 830px;
+    margin: auto;
+    background-color: #2980b9;
+}
+.header{
+    padding: 5px;
+    color: black;
+}
+h1 .judul{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #c23616;
+}
+.header ul li{
+    display: inline-block;
+    margin-right: 45px;
+    margin-left: 38px;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+    padding: 3px;
+}
+.header a:hover{
+    background-color: #c23616;
+    color: white;
+}
+.horizontal{
+    height: 250px;
+    background-image: url('images/275.jpg');
+    border-color: 5px solid black;
+    border-bottom: 5px solid black;
+}
+.hero{
+    color: white;
+/*  width: 760px;
+    height: 130px;
+    color: white;
+    padding-right: 30px;
+    padding-left: 10px;*/
+}
+.judulhero{
+    color: white;
+    padding-right: 30px;
+    padding-left: 10px;
+}
+.subscribe{
+    width: 500px;
+    height: 90px;
+    color: white;
+    padding-right: 30px;
+    padding-left: 10px;
+}
+.heroo .buttom{
+    height: 35px;
+    background: #e8491d;
+    border-bottom: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: black;
+}
+.main {
+    padding: 15px;
+    background: #2980b9;
+    color: #fff;
+    margin: 10px 0 10px 0;
+}
+.main .judul{
+    margin-top: -30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.dark{
+    padding: 15px;
+    background-color: #2980b9;
+    color: #fff;
+    margin: 10px 0 px 0;
+}
+.dark .tema{
+    margin-top: -20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.footber{
+    background-color: #c23616;
+    padding: 7px;
+}
+.footber .copy{
+    color: #eaeaea;
+    text-align: center;
+    font-size: 13px;
+}
