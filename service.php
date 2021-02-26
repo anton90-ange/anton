@@ -10,7 +10,7 @@
             <h2 class="judul">Mywebsite</h2>
             <ul>
                 <li><a href="index.html">Beranda</a>
-                <li><a href="home.php>Home</a>
+                <li><a href="home.php">Home</a>
                 <li><a href="about.php">About</a>
                 <li><a href="service.php">Services</a><li>
             </ul>
